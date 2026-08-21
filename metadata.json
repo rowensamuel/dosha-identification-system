@@ -1,0 +1,6 @@
+{
+  "name": "Ayurveda Dosha Identification Expert System",
+  "description": "An interactive AI-powered web platform that identifies your Ayurvedic Dosha (Vata, Pitta, Kapha) based on symptoms and lifestyle traits, providing personalized health recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
